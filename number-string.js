@@ -1,15 +1,42 @@
-const texto1 = "Ola Mundo!";
-const texto2 = 'Ola Mundo!';
-const senha = "senhaSuperSegura456!";
-const StringDeNumeros = "34567";
+// type Number 
 
-// da pra usar "" dentro de '' ou contrario 
-//exemplo
-const texto3 = "ele falou 'Ola'"
+const myNumber = 3;
 
-// concatenacao (+)
+const firstNumber = 2;
+const secondNumber = 5; 
+
+const firstOperation = firstNumber + secondNumber;
+const secondOperation = firstNumber * secondNumber;
+const thirdOperation = firstNumber * myNumber + secondNumber;
+
+console.log(firstOperation, secondOperation, thirdOperation)
+
+// ponto flutuante
+
+const thirdNumber = 5.5;
+const FourthNumber = .3;
+
+const fourthOperation = thirdNumber / FourthNumber;
+
+console.log(fourthOperation)
+
+//NaN -> Not a Number
+
+const caruso = "caruso";
+
+//console.log(caruso * myNumber)
+
+//type-string
+
+const text1 = "Olá ,mundo!";
+const text2 = 'Olá, mundo!';
+const stringNumber = "123";
+
+console.log(text1)
+
+// concatenação
 
 const citacao = "Meu nome é ";
-const meuNome = "Andre";
+const myName = "André"
 
-console.log(citacao + meuNome)
+console.log(citacao + myName)
