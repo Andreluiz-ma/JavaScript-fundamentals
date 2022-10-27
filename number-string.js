@@ -24,7 +24,7 @@ console.log(fourthOperation)
 
 const caruso = "caruso";
 
-//console.log(caruso * myNumber)
+console.log(caruso * myNumber)
 
 //type-string
 
