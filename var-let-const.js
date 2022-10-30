@@ -24,15 +24,15 @@
 
 //const
 
-// const shape = "square";
-// const heigth = 5;
-// const length = 3;
-// let area;
+const shape = "square";
+const heigth = 5;
+const length = 3;
+let area;
 
-// if (shape === "square") {
-//     area = heigth * length;
-// } else {
-//     area = (heigth * length) / 2;
-// }
+if (shape === "square") {
+    area = heigth * length;
+} else {
+    area = (heigth * length) / 2;
+}
 
-// console.log(area)
+console.log(area)
