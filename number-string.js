@@ -22,9 +22,9 @@ console.log(fourthOperation)
 
 //NaN -> Not a Number
 
-const caruso = "caruso";
+const tijolo = "caruso";
 
-console.log(caruso * myNumber)
+console.log(tijolo * myNumber)
 
 //type-string
 
