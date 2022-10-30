@@ -21,10 +21,12 @@ console.log(text1 === text2)
 // console.log("" == false)
 // console.log(1 == true)
 
-// undefined //null = vazio ou nada
+// undefined 
 
 let myVar;
 console.log(myVar) // undefined 
+
+//null = vazio ou nada
 
 let varNull = null;
 console.log(typeof varNull)
